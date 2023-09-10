@@ -10,3 +10,4 @@ Use pandas to get some insights into the data (10 marks)
 Show some interesting visualization of the data (10 marks)
 Manage data for training & testing (20)
 Finding a better value of k (10)
+
